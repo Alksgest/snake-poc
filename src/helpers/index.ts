@@ -1,2 +1,2 @@
-export {getPositions} from './getPositions'
-export {findEmptyCell} from './findEmptyCell'
+export { getPositions } from "./getPositions";
+export { findEmptyCell } from "./findEmptyCell";
